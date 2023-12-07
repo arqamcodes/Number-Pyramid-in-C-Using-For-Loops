@@ -1,2 +1,3 @@
-# Number-Pyramid-in-C
-Number Pyramid in C
+# Number-Pyramid-in-C-Using-For-Loops
+
+This C program generates a visually appealing number pyramid using nested for loops. The pyramid structure is created by incrementing numbers in a systematic pattern, showcasing the versatility and efficiency of the C programming language. The code is designed to be clear and concise, making it accessible for beginners to understand the logic behind the pyramid formation. With a focus on simplicity and readability, this project serves as an excellent educational resource for those looking to enhance their understanding of loop structures in C. Explore the code to gain insights into algorithmic thinking and loop control flow, and use it as a foundational example for learning and teaching programming concepts.
